@@ -1,4 +1,4 @@
-﻿const options =  {
+const options =  {
    chart: {
        type: 'bar',
        height:"100%"
